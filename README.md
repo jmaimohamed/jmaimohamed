@@ -1,96 +1,75 @@
 <h1 align="center">Mohamed Jemai</h1>
 <p align="center">
-  Software Engineer · Full-Stack Developer · Embedded Systems & DevOps Enthusiast
+  Software Engineer · Full-Stack & Cloud Developer · Embedded Systems & DevOps Practitioner
 </p>
 
 ---
 
 ## 🧭 About Me
 
-I am a dedicated **Software Engineer**, ranked **1st in my class at ESPRIT**, passionate about building **scalable**, **secure**, and **high-performance** software systems.
+I am a results-driven **Software Engineer**, ranked **1st in my class at ESPRIT**, with strong experience in **full-stack development**, **embedded systems**, and **DevOps automation**.
 
-My experience spans across:
-- **Full-Stack Web Development** (Spring Boot, React.js)
-- **Embedded Systems & Firmware Development** (C, STM32, CAN, UDS)
-- **DevOps Engineering** (Docker, Jenkins, SonarQube, CI/CD pipelines)
-- **IoT & Connected Systems** (ESP32, Raspberry Pi, sensors)
+My work spans across:
+- Building **scalable and secure backend systems**  
+- Designing **modern front-end interfaces**  
+- Developing **embedded firmware** (STM32, CAN, UDS)  
+- Automating deployments with **CI/CD pipelines**  
+- Running production environments using **Docker, Jenkins, SonarQube, and monitoring tools**
 
-I love transforming ideas into real, reliable solutions—whether it's cloud-ready web platforms, embedded firmware, or automated pipelines.  
-I focus on **clean architecture**, **performance**, and **production-ready systems**.
+I focus on **clean architecture**, **performance**, and **reliable engineering**, bridging software, hardware, and cloud systems.
 
 ---
 
 ## 💼 Hard Skills
 
-### **🖥️ Software & Web Development**
-- Spring Boot (Java)  
-- React.js / React Native  
-- C, C++  
-- Python  
-- Symfony (PHP)  
-- JavaFX  
-- REST APIs
-
-### **🔌 Embedded Systems & IoT**
-- STM32 (C firmware)  
-- ESP32, Raspberry Pi, Arduino  
-- CAN, UDS, SPI, I2C, UART  
-- Buildroot, Yocto, QEMU  
-- Real-time data collection & diagnostics  
-
-### **⚙️ DevOps & Cloud**
-- Docker & Docker Compose  
-- Jenkins CI/CD  
-- SonarQube (Code Quality)  
-- Nexus (Artifact Management)  
-- Grafana & Prometheus (Monitoring)  
-- Git & GitHub (Branching strategies)
-
-### **🗄️ Databases**
-- MySQL  
-- PostgreSQL  
-- Redis (basics)
+| Category | Skills |
+|---------|--------|
+| **Programming Languages** | C · C++ · Java (Spring Boot) · JavaScript · Python · PHP |
+| **Web & Mobile Development** | Spring Boot · React.js · React Native · JavaFX · Symfony |
+| **Embedded Systems & IoT** | STM32CubeIDE · ESP32 · Raspberry Pi · Arduino · CAN · UDS · SPI · I2C · UART |
+| **DevOps & Automation** | Docker · Docker Compose · Jenkins · SonarQube · Nexus · Git · GitHub Actions · Linux |
+| **Monitoring & Cloud** | Prometheus · Grafana · Azure (basic) |
+| **Databases** | MySQL · PostgreSQL · Redis (basics) |
 
 ---
 
 ## 🧠 Soft Skills
 
-- Problem-solving  
-- Autonomy  
-- Teamwork  
-- Adaptability  
-- Time management  
+| Category | Details |
+|----------|---------|
+| **Professional Mindset** | Problem-solving · Autonomy · Quality-driven · Adaptability · Continuous Learning |
+| **Collaboration** | Teamwork · Communication · Technical reporting · Documentation |
+| **Productivity** | Time management · Ownership · Task prioritization |
 
 ---
 
-## 🚀 Featured Project: Truck Monitoring System (T.M.S)
+## 🚀 Featured Project: **Truck Monitoring System (T.M.S)**
 
-An IoT-driven real-time truck monitoring platform improving safety, logistics, and fleet management.
+An IoT-powered platform that enhances logistics operations through vehicle monitoring, real-time telemetry, and safety analytics.
 
-### **Key Features**
-- Real-time vehicle data (location, performance, environment)  
-- IoT sensors for continuous monitoring  
-- Driver drowsiness detection with **OpenCV**  
-- Microservices architecture  
-- Web platform (React.js + Spring Boot)  
-- Mobile app (React Native)  
-- Full containerization with Docker  
-- Monitoring dashboards (Grafana & Prometheus)
+### 🔍 Highlights
+- Real-time vehicle tracking & sensor monitoring  
+- Safety system using **OpenCV** for drowsiness detection  
+- IoT devices integrated: **ESP32, Raspberry Pi, external sensors**  
+- Distributed architecture with containerized services  
+- Web dashboard in React.js & backend in Spring Boot  
+- Mobile app via React Native  
+- CI/CD and monitoring stack (Docker + Jenkins + Prometheus + Grafana)
 
-### **Tech Used**
-**Spring Boot · React.js · React Native · Docker · Jenkins · Raspberry Pi · ESP32 · Arduino Mega · Azure**
+### 🛠️ Technologies
+**Spring Boot · React.js · React Native · Docker · Jenkins · Grafana · Prometheus · Raspberry Pi · ESP32 · Azure**
 
 ---
 
 ## 📊 Current Focus Areas
 
-- Developing **secure & scalable** web applications  
-- Building **CI/CD pipelines** with Jenkins & GitHub Actions  
-- Improving **code quality & test automation**  
-- Designing embedded systems using **STM32 firmware, CAN & UDS**  
-- Advancing in **cloud deployments** and container orchestration  
-- Working on **mobile cross-platform development** (React Native)  
-- Deepening system-level knowledge through **Linux & IoT architectures**
+- Designing **scalable backend systems** with Spring Boot  
+- Building **end-to-end CI/CD pipelines** (Jenkins, GitHub Actions)  
+- Improving **embedded firmware development** on STM32 (CAN, UDS)  
+- Building performant **React Native mobile apps**  
+- Strengthening cloud & container orchestration skills  
+- Improving monitoring and observability using **Grafana & Prometheus**  
+- Writing cleaner, maintainable, and testable code  
 
 ---
 
