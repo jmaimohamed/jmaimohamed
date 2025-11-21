@@ -1,6 +1,6 @@
 <h1 align="center">Mohamed Jemai</h1>
 <p align="center">
-  Software Engineer · Full-Stack & Cloud Developer · Embedded Systems & DevOps Practitioner
+  Software Engineer · Full-Stack Developer · Embedded Systems & DevOps Practitioner
 </p>
 
 ---
